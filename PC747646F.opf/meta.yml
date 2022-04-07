@@ -1,0 +1,29 @@
+id: PC747646F
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA30018
+  instance_id: http://purl.bdrc.io/resource/IE30018
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - སྡོམ་གསུམ་རྒྱན་དང་དེའི་རྒྱ་ཆེར་འགྲེལ་པ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P825
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ac75706f63434e0d8c28909c6bb55ca5:
+      title: པོད ༡་སྡོམ་གསུམ་རྒྱན་དང་དེའི་རྒྱ་ཆེར་འགྲེལ་པ
+      volume_number: 1
+      base_file: UT30018_5748_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6CC976EA6A332A7B
+      image_group: '5748'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW30018
+  - http://purl.bdrc.io/resource/W30018
+  ocr_software: Namsel
+created_at: '2021-12-22T11:16:35.133449'
+last_modified_at: '2021-12-22T11:16:35.133462'
